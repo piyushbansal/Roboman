@@ -1,4 +1,5 @@
 Roboman
 =======
 
-A simple Python game written in ncurses library :D
+A simple Python game written in curses library :D
+#RetroLook
